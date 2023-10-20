@@ -1,0 +1,31 @@
+NGW64 ~/Desktop
+$ ssh f6b5d049aa9d@f6b5d049aa9d.6471a552.alx-cod.online
+f6b5d049aa9d@f6b5d049aa9d.6471a552.alx-cod.online's password:
+root@f6b5d049aa9d:/# ls
+0x00-ES6_basic           bin   home   mnt                  proc  srv  var
+alx-frontend             boot  lib    nodesource_setup.sh  root  sys
+alx-frontend-javascript  dev   lib64  opt                  run   tmp
+alx-interview            etc   media  package-lock.json    sbin  usr
+root@f6b5d049aa9d:/# cd alx-frontend
+root@f6b5d049aa9d:/alx-frontend# ls
+0x00-html_advanced  0x01-developer_tools  0x02-CSS_advanced  README.md
+root@f6b5d049aa9d:/alx-frontend# mkdir 0x03-responsive_design
+root@f6b5d049aa9d:/alx-frontend# cd 0x03-responsive_design
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 00-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 00-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 01-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 01-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 02-1-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 02-1-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 02-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 02-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 03-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 03-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 04-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 04-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 05-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 05-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 06-index.html
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 06-styles.css
+root@f6b5d049aa9d:/alx-frontend/0x03-responsive_design# vi 07-index.html
+
